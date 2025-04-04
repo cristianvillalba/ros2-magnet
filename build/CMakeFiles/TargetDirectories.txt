@@ -1,0 +1,3 @@
+/Users/cristianvillalba/Downloads/gz-sim-gz-sim9/examples/plugin/magnet/build/CMakeFiles/Magnet.dir
+/Users/cristianvillalba/Downloads/gz-sim-gz-sim9/examples/plugin/magnet/build/CMakeFiles/edit_cache.dir
+/Users/cristianvillalba/Downloads/gz-sim-gz-sim9/examples/plugin/magnet/build/CMakeFiles/rebuild_cache.dir
